@@ -1,4 +1,6 @@
-# Face-detection-using-OpenCV
-face detection machine learning project using OpenCV and haar cascade classifiers.
+*Face detection using OpenCV*
+This is a Computer vision project that uses OpenCV and haar cascade classifiers for face detection.
 
-Required  python3 
+*Required dependencies:*
+- Python 3.9
+- opencv-python
